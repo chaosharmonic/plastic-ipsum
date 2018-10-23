@@ -1,4 +1,4 @@
-var content = [
+const content = [
   "\"Too gay to function\"!?",
   "120 calories and 48 calories from fat. What percent is that?",
   "Alyssa, I'm sorry I called you a gap-toothed bitch. It's not your fault you're so gap-toothed.",
@@ -80,7 +80,7 @@ var content = [
   "I don't know, I mean, she's so weird, she just, you know, came up to me and started talking to me about crack.",
   "I don't know, now that she's getting fatter she's got pretty big jugs.",
   "I don't send them, I just get them. So you better send me one, byotch.",
-  "I don't think my father, the inventor of Toaster Strudel, would be too pleased with this",
+  "I don't think my father, the inventor of Toaster Strudel, would be too pleased with this.",
   "I gave him everything... I was half a virgin when I met him!",
   "I have really bad breath in the morning.",
   "I have this theory, that if you cut off all her hair she'd look like a British man.",
@@ -107,7 +107,7 @@ var content = [
   "I'm not a regular mom, I'm a cool mom.",
   "I'm sorry that people are so jealous of me... but I can't help it that I'm popular.",
   "In Girl World, Halloween is the one night a year when a girl can dress like a total slut and no other girls can say anything about it",
-  "In the real world, Halloween is when kids dress up in costumes and beg for candy. In Girl World, Halloween is the one day a year when a girl can dress up like a total slut and no other girls can say anything else about it.",
+  "In the real world, Halloween is when kids dress up in costumes and beg for candy.",
   "Irregardless, ex-boyfriends are just off limits to friends. I mean that's just like the rules of feminism.",
   "Is butter a carb?",
   "Is that a band?",
